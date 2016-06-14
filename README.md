@@ -50,10 +50,10 @@ Please subscribe to the mailing list if you are interested.
 
 To cite NTU RGB+D dataset, please use this bibtex record:
 
-@InProceedings{Shahroudy_2016_CVPR,
-author = {Shahroudy, Amir and Liu, Jun and Ng, Tian-Tsong and Wang, Gang},
-title = {NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2016}
+@InProceedings{Shahroudy_2016_CVPR,<br>
+author = {Shahroudy, Amir and Liu, Jun and Ng, Tian-Tsong and Wang, Gang},<br>
+title = {NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis},<br>
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},<br>
+month = {June},<br>
+year = {2016}<br>
 }
