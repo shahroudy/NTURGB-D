@@ -36,7 +36,7 @@ I have provided some MATLAB codes [here](https://github.com/shahroudy/NTURGB-D/t
 
 If you are interested to recieve news, updates, and future events about this dataset please subscribe in the Google group of the dataset at: https://groups.google.com/d/forum/ntu-rgbd.
 If you cannot access the group's page, please email me, I will add your email to the list. 
-My Gmail is the same as my GitHub account, which is my familyname :)
+You can find my email in the [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf), I'm the first author :)
 
 ### Challenge
 
