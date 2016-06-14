@@ -19,7 +19,7 @@ This dataset consists of 56,880 action samples containing 4 different modalities
 Video samples have been captured by 3 Microsoft Kinect v.2 cameras concurrently. 
 The resolution of RGB videos are 1920×1080, depth maps and IR videos are all in 512×424, and 3D skeletal data contains the three dimensional locations of 25 major body joints, at each frame.
 
-Each file/folder name in the dataset is in the format of SsssCcccPpppRrrrAaaa, for which sss is the setup number, ccc is the camera ID, ppp is the performer ID, rrr is the replication number (1 or 2), and aaa is the action class label.
+Each file/folder name in the dataset is in the format of SsssCcccPpppRrrrAaaa (e.g. S001C002P003R002A013), for which sss is the setup number, ccc is the camera ID, ppp is the performer ID, rrr is the replication number (1 or 2), and aaa is the action class label.
 For more details about setups, camera IDs, ... please refer to the [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf). 
 
 ### Samples with missing skeletons
