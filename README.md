@@ -124,3 +124,18 @@ month = {June},
 year = {2016}
 }
 ```
+
+### Reported results on NTU RGB+D benchmark
+
+Coming soon :)
+
+### FAQ
+
+**Are you going to release the Part-aware LSTM source code?**<br>
+*I like to do so, but it needs some cleaning up and documentation.
+I have utilized Andrej Karpathy's [char-rnn](https://github.com/karpathy/char-rnn) code to implement Part-aware LSTM.
+Please take a look at it till then.*
+
+**The provided MATLAB code cannot read avi files on my Linux machine.**<br>
+*Most probably it's a missing codec problem.
+I used [this solution](http://askubuntu.com/questions/575869/how-do-i-install-gstreamer0-10-ffmpeg-on-ubuntu-14-10/707612#707612) and it worked on my own machine, hope it would help you also.*
