@@ -17,7 +17,7 @@ function []=show_skeleton_on_IR_frames(...
 %       "NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis",
 %       in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016
 
-bodyinfo = ReadBodyFile(skeletonfilename);
+bodyinfo = read_skeleton_file(skeletonfilename);
 
 videofile = VideoReader(irfilename);
 irvid = read(videofile);
