@@ -23,7 +23,7 @@ videofile = VideoReader(rgbfilename);
 rgbvid = read(videofile);
 
 if nargin>2 % if the output video file is given
-    writerObj = VideoWriter('sklonrgb.avi');
+    writerObj = VideoWriter(outputvideofilename);
     open(writerObj);
 end
 
