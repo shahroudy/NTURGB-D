@@ -134,6 +134,9 @@ Coming soon :)
 **What is the frame rate of the provided videos and depth maps in your dataset?**<br>
 *We have used the default 30 fps setting of Kinect V2 to capture all the modalities.*
 
+**Why the individual and mutual actions are considered together? Isn't it better to separate them in our evaluations?**<br>
+*Having these classes of human actions together is a part of our dataset design to cope with more realistic scenarios of human action analysis. Therefore, the ideal evalution should not provide any prior info about the type of the action.*
+
 **Are you going to release the Part-aware LSTM source code?**<br>
 *I like to do so, but it needs some cleaning up and documentation.
 I have utilized Andrej Karpathy's [char-rnn](https://github.com/karpathy/char-rnn) code to implement Part-aware LSTM.
