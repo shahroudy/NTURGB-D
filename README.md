@@ -131,6 +131,9 @@ Coming soon :)
 
 ### FAQ
 
+**What is the frame rate of the provided videos and depth maps in your dataset?**<br>
+*We have used the default 30 fps setting of Kinect V2 to capture all the modalities.*
+
 **Are you going to release the Part-aware LSTM source code?**<br>
 *I like to do so, but it needs some cleaning up and documentation.
 I have utilized Andrej Karpathy's [char-rnn](https://github.com/karpathy/char-rnn) code to implement Part-aware LSTM.
