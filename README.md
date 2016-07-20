@@ -103,7 +103,7 @@ If you are interested to recieve news, updates, and future events about this dat
 If you cannot access the group's page, please email me, I will add your email to the list. 
 You can find my email in the [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf), I'm the first author :)
 
-### Challenge
+### 3D Human Activity Analysis Challenge
 
 We are going to organize an action recognition challenge based on our dataset soon.
 The top performing groups will be invited to ACCV 2016 Workshop "Large Scale 3D Human Activity Analysis Challenge in Depth Videos" to present their works.
