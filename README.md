@@ -137,6 +137,23 @@ Coming soon :)
 **Why the individual and mutual actions are considered together? Isn't it better to separate them in our evaluations?**<br>
 *Having these classes of human actions together is a part of our dataset design to cope with more realistic scenarios of human action analysis. Therefore, the ideal evalution should not provide any prior info about the type of the action.*
 
+**How did you handle the variable subject numbers (one or two) in the input of the network?**<br>
+*Our inputs initially includes two sets of joints (for two skeletons).
+When we observed just one, the second set was filled with zeros.
+When we observed two or more, we decided about which one to be the main subject and which one to be the second one, by measuring the amount of motion of their joints.
+Also, some of the detected skeletons are noise, like tables and seats!!!
+You can eliminate them by filtering out the skeletons which does not have reasonable Y spread over X spread values over all of their joints.*
+
+**How did you choose the main actor in the preprocessing step?**<br>
+*We used a heuristic. It's very simple (but not necessarily correct for all the samples).
+Consider the variance of the X, Y, and Z values of all the joints and add them up.
+We took the body with the higher value as the main subject.*
+
+**How important is the skeleton normalization step, described in experimantal setup section?**<br>
+*In the extension of our experiments, we found out the normalization is not vital.
+You can skip the normalization step and it should work fine.
+Actually the network is supposed to learn how to normalize the data by itself.*
+
 **Are you going to release the Part-aware LSTM source code?**<br>
 *I like to do so, but it needs some cleaning up and documentation.
 I have utilized Andrej Karpathy's [char-rnn](https://github.com/karpathy/char-rnn) code to implement Part-aware LSTM.
