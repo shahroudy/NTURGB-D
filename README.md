@@ -105,10 +105,10 @@ You can find my email in the [paper](http://www.cv-foundation.org/openaccess/con
 
 ### 3D Human Activity Analysis Challenge
 
-We are going to organize an action recognition challenge based on our dataset soon.
-The top performing groups will be invited to ACCV 2016 Workshop "Large Scale 3D Human Activity Analysis Challenge in Depth Videos" to present their works.
+We have organized the action recognition challenge based on our dataset soon.
+The top performing groups have been invited to ACCV 2016 Workshop "Large Scale 3D Human Activity Analysis Challenge in Depth Videos" to present their works.
 
-The updates about this challege will be posted to the mailing list and [here](http://rose1.ntu.edu.sg/ActionRecognitionChallenge).
+The updates about the future events will be posted to the mailing list and [here](http://rose1.ntu.edu.sg/ActionRecognitionChallenge).
 Please subscribe to the mailing list if you are interested.
 
 ### Citation
