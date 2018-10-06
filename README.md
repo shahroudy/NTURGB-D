@@ -26,7 +26,7 @@ For more details about setups, camera IDs, ... please refer to the [paper](http:
 
 302 of the captured samples have missing or incomplete skeleton data.
 If you are working on skeleton-based analysis, please ignore these files in your training and testing procedures.
-The list of these samples are provided [here](https://github.com/shahroudy/NTURGB-D/blob/master/Matlab/samples_with_missing_skeletons.txt).
+The list of these samples is provided [here](https://github.com/shahroudy/NTURGB-D/blob/master/Matlab/samples_with_missing_skeletons.txt).
 
 ### Action Classes
 
@@ -99,7 +99,7 @@ I have provided some MATLAB codes [here](https://github.com/shahroudy/NTURGB-D/t
 
 ### Mailing List
 
-If you are interested to recieve news, updates, and future events about this dataset please subscribe in the Google group of the dataset at: https://groups.google.com/d/forum/ntu-rgbd.
+If you are interested to receive news, updates, and future events about this dataset please subscribe in the Google group of the dataset at: https://groups.google.com/d/forum/ntu-rgbd.
 If you cannot access the group's page, please email me, I will add your email to the list. 
 You can find my email in the [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf), I'm the first author :)
 
@@ -135,7 +135,7 @@ Coming soon :)
 *We have used the default 30 fps setting of Kinect V2 to capture all the modalities.*
 
 **Why the individual and mutual actions are considered together? Isn't it better to separate them in our evaluations?**<br>
-*Having these classes of human actions together is a part of our dataset design to cope with more realistic scenarios of human action analysis. Therefore, the ideal evalution should not provide any prior info about the type of the action.*
+*Having these classes of human actions together is a part of our dataset design to cope with more realistic scenarios of human action analysis. Therefore, the ideal evaluation should not provide any prior info about the type of the action.*
 
 **How did you handle the variable subject numbers (one or two) in the input of the network?**<br>
 *Our inputs initially includes two sets of joints (for two skeletons).
@@ -152,7 +152,7 @@ We took the body with the higher value as the main subject.*
 **How important is the skeleton normalization step, described in experimantal setup section?**<br>
 *In the extension of our experiments, we found out the normalization is not vital.
 You can skip the normalization step and it should work fine.
-Actually the network is supposed to learn how to normalize the data by itself.*
+Actually, the network is supposed to learn how to normalize the data by itself.*
 
 **Are you going to release the Part-aware LSTM source code?**<br>
 *I like to do so, but it needs some cleaning up and documentation.
