@@ -173,7 +173,7 @@ Note that actions labelled from A1 to A60 are in "NTU RGB+D", while actions labe
 
 ### Citation
 
-To cite "NTU RGB+D" dataset, please use this bibtex record:
+To cite our datasets, please use the following bibtex records:
 
 ```
 @inproceedings{Shahroudy_2016_NTURGBD,
@@ -183,11 +183,7 @@ To cite "NTU RGB+D" dataset, please use this bibtex record:
   month = {June},
   year = {2016}
 }
-```
 
-To cite "NTU RGB+D 120" dataset, please use this bibtex record:
-
-```
 @article{Liu_2019_NTURGBD120,
   title={NTU RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding},
   author={Liu, Jun and Shahroudy, Amir and Perez, Mauricio and Wang, Gang and Duan, Ling-Yu and Kot, Alex C.},
