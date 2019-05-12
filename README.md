@@ -40,6 +40,10 @@ If you are working on skeleton-based analysis, please ignore these files in your
 The list of these samples in "NTU RGB+D" dataset are provided [here](https://github.com/shahroudy/NTURGB-D/blob/master/Matlab/NTU_RGBD_samples_with_missing_skeletons.txt),
 and the list of these samples in "NTU RGB+D 120" dataset are provided [here](https://github.com/shahroudy/NTURGB-D/blob/master/Matlab/NTU_RGBD120_samples_with_missing_skeletons.txt).
 
+### Sample codes
+
+We have provided some MATLAB codes [here](https://github.com/shahroudy/NTURGB-D/tree/master/Matlab) to demonstrate how to read the skeleton files, map them to other modalities (RGB, depth, and IR frames), and visualize the skeleton data. These codes are suitable for both "NTU RGB+D" and "NTU RGB+D 120".
+
 ### Action Classes
 
 "NTU RGB+D" dataset contains 60 action classes, and "NTU RGB+D 120" dataset contains 120 action classes. The actions in these two datasets are listed as below. 
@@ -167,10 +171,6 @@ A118.	exchange things with other person.
 A119.	support somebody with one’s hand (someone is sick, help him to walk). 
 A120. finger-guessing game (playing rock-paper-scissors). 
 
-
-### Sample codes
-
-I have provided some MATLAB codes [here](https://github.com/shahroudy/NTURGB-D/tree/master/Matlab) to demonstrate how to read skeleton files and map them to other modalities (RGB, depth, and IR frames). These codes are suitable for both "NTU RGB+D" and "NTU RGB+D 120".
 
 ### Mailing List
 
