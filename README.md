@@ -167,7 +167,7 @@ A120. finger-guessing game (playing rock-paper-scissors).
 
 ### Sample codes
 
-I have provided some MATLAB codes [here](https://github.com/shahroudy/NTURGB-D/tree/master/Matlab) to demonstrate how to read skeleton files and map them to other modalities (RGB, depth, and IR frames). These codes work for both datasets.
+I have provided some MATLAB codes [here](https://github.com/shahroudy/NTURGB-D/tree/master/Matlab) to demonstrate how to read skeleton files and map them to other modalities (RGB, depth, and IR frames). These codes are suitable for both "NTU RGB+D" and "NTU RGB+D 120".
 
 ### Mailing List
 
