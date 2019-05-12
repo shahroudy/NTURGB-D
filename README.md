@@ -1,7 +1,7 @@
 # "NTU RGB+D" Action Recognition Dataset
 # "NTU RGB+D 120" Action Recognition Dataset
 
-#### This page introduces the information and sample codes for both the "NTU RGB+D" dataset and the "NTU RGB+D 120" dataset
+#### This page introduces the information and sample codes for both the "NTU RGB+D" dataset and the "NTU RGB+D 120" dataset.
 
 "NTU RGB+D" is a large-scale dataset for human action recognition.
 It is introduced in our CVPR 2016 paper [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf). 
@@ -11,7 +11,7 @@ It is introduced in our TPAMI 2019 paper [[PDF]](https://doi.org/10.1109/TPAMI.2
 
 ### How to access the datasets
 
-Please click [here](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp) for more information about obtaining the "NTU RGB+D" and "NTU RGB+D 120" datasets.
+Please click [here](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp) for more information about obtaining the "NTU RGB+D" and "NTU RGB+D 120" datasets. (The "NTU RGB+D 120" is still under prepration, and it will be released soon.)
 
 ### Structures of the datasets
 
