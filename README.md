@@ -13,7 +13,7 @@ It is introduced in our TPAMI 2019 paper [[PDF]](https://doi.org/10.1109/TPAMI.2
 
 Please click [here](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp) for more information about obtaining the "NTU RGB+D" and "NTU RGB+D 120" datasets. 
 
-#### Note: The "NTU RGB+D 120" is still under prepration, and it will be available for downloading soon.
+#### Note: The "NTU RGB+D 120" dataset is still under prepration, and it will be available for downloading very soon.
 
 ### Structures of the datasets
 
