@@ -140,7 +140,7 @@ Note that actions labelled from A1 to A60 are in "NTU RGB+D", while actions labe
 * A88. take off bag. 
 * A89. put something into a bag. 
 * A90. take something out of a bag. 
-* * A91. open a box. 
+* A91. open a box. 
 * A92. move heavy objects. 
 * A93. shake fist. 
 * A94. throw up cap/hat. 
