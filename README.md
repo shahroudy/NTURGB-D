@@ -222,12 +222,12 @@ Coming soon :)
 *Our inputs initially includes two sets of joints (for two skeletons).
 When we observed just one, the second set was filled with zeros.
 When we observed two or more, we decided about which one to be the main subject and which one to be the second one, by measuring the amount of motion of their joints.
-Also, some of the detected skeletons are noise, like tables and seats!!!
-You can eliminate them by filtering out the skeletons which does not have reasonable Y spread over X spread values over all of their joints.*
+Also, some of the detected skeletons are noise, like tables and seats.
+You can eliminate them by filtering out the skeletons that do not have reasonable Y spread over X spread values over all of their joints.*
 
 **How did you choose the main actor in the preprocessing step?**<br>
-*We used a heuristic. It's very simple (but not necessarily correct for all the samples).
-Consider the variance of the X, Y, and Z values of all the joints and add them up.
+*We used a heuristic method. It's very simple (but not necessarily correct for all the samples).
+We consider the variance of the X, Y, and Z values of all the joints and add them up.
 We took the body with the higher value as the main subject.*
 
 **How important is the skeleton normalization step, described in experimantal setup section?**<br>
@@ -235,6 +235,6 @@ We took the body with the higher value as the main subject.*
 You can skip the normalization step and it should work fine.
 Actually the network is supposed to learn how to normalize the data by itself.*
 
-**The provided MATLAB code cannot read avi files on my Linux machine.**<br>
+**The provided MATLAB code cannot read .avi files on my Linux machine.**<br>
 *Most probably it's a missing codec problem.
-I used [this solution](http://askubuntu.com/questions/575869/how-do-i-install-gstreamer0-10-ffmpeg-on-ubuntu-14-10/707612#707612) and it worked on my own machine, hope it would help you also.*
+I used [this solution](http://askubuntu.com/questions/575869/how-do-i-install-gstreamer0-10-ffmpeg-on-ubuntu-14-10/707612#707612), and it worked on my own machine. Hope it would help you also.*
