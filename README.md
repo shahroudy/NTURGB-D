@@ -1,32 +1,38 @@
-# NTU RGB+D Action Recognition Dataset
-#####Info and sample codes for "NTU RGB+D Action Recognition Dataset"
+# "NTU RGB+D" Action Recognition Dataset & "NTU RGB+D 120" Action Recognition Dataset
+#####Information and sample codes for "NTU RGB+D" dataset and "NTU RGB+D 120" dataset
 
-NTU RGB+D is a large scale dataset for human action recognition.
-It has been introduced in our CVPR 2016 paper [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf). 
+"NTU RGB+D" is a large-scale dataset for human action recognition.
+It is introduced in our CVPR 2016 paper [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf). 
 
-### How to access the dataset
+"NTU RGB+D 120" is the extended version of "NTU RGB+D".
+It is introduced in our TPAMI 2019 paper [[PDF]](https://doi.org/10.1109/TPAMI.2019.2916873).
 
-Please click [here](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp) for more info about obtaining the dataset.
+### How to access the datasets
 
-### Structure of the dataset
+Please click [here](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp) for more info about obtaining the "NTU RGB+D" and "NTU RGB+D 120" datasets.
 
-This dataset consists of 56,880 action samples containing 4 different modalities of data for each sample:
+### Structure of the datasets
+
+"NTU RGB+D" and NTU RGB+D 120" datasets contain 56,880 and 114,480 action samples, repsectively. Both datasets include 4 different modalities of data for each sample:
 * RGB videos
 * depth map sequences
 * 3D skeletal data
-* infrared videos
+* infrared (IR) videos
 
 Video samples have been captured by 3 Microsoft Kinect v.2 cameras concurrently. 
-The resolution of RGB videos are 1920×1080, depth maps and IR videos are all in 512×424, and 3D skeletal data contains the three dimensional locations of 25 major body joints, at each frame.
+The resolution of RGB videos are 1920×1080, depth maps and IR videos are all in 512×424, and 3D skeletal data contains the 3D locations of 25 major body joints at each frame.
 
-Each file/folder name in the dataset is in the format of SsssCcccPpppRrrrAaaa (e.g. S001C002P003R002A013), for which sss is the setup number, ccc is the camera ID, ppp is the performer ID, rrr is the replication number (1 or 2), and aaa is the action class label.
-For more details about setups, camera IDs, ... please refer to the [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf). 
+Each file/folder name in both datasets is in the format of SsssCcccPpppRrrrAaaa (e.g. S001C002P003R002A013), for which sss is the setup number, ccc is the camera ID, ppp is the performer ID, rrr is the replication number (1 or 2), and aaa is the action class label.
+The "NTU RGB+D" dataset includes the files/folders with setup numbers between S001 and S017, while the "NTU RGB+D" dataset includes the files/folders with setup numbers between S001 and S032. 
+
+For more details about setups, camera IDs, ... please refer to the ["NTU RGB+D" paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf) and the ["NTU RGB+D 120" paper](https://doi.org/10.1109/TPAMI.2019.2916873). 
 
 ### Samples with missing skeletons
 
-302 of the captured samples have missing or incomplete skeleton data.
+Several samples in "NTU RGB+D" dataset and "NTU RGB+D 120" dataset have missing or incomplete skeleton data.
 If you are working on skeleton-based analysis, please ignore these files in your training and testing procedures.
-The list of these samples are provided [here](https://github.com/shahroudy/NTURGB-D/blob/master/Matlab/samples_with_missing_skeletons.txt).
+The list of these samples in "NTU RGB+D" dataset are provided [here](https://github.com/shahroudy/NTURGB-D/blob/master/Matlab/NTU_RGBD_samples_with_missing_skeletons.txt).
+The list of these samples in "NTU RGB+D 120" dataset are provided [here](https://github.com/shahroudy/NTURGB-D/blob/master/Matlab/NTU_RGBD120_samples_with_missing_skeletons.txt).
 
 ### Action Classes
 
