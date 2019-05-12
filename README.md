@@ -176,11 +176,11 @@ I have provided some MATLAB codes [here](https://github.com/shahroudy/NTURGB-D/t
 
 If you are interested to recieve news, updates, and future events about this dataset, please subscribe in the Google group of the dataset at: https://groups.google.com/d/forum/ntu-rgbd.
 If you cannot access the group's page, please email me, I will add your email to the list. 
-You can find my email in the [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf), I'm the first author :)
+You can find my email in the [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf), and I'm the first author :)
 
 ### 3D Human Activity Analysis Challenge
 
-We have organized the action recognition challenge "Large Scale 3D Human Activity Analysis Challenge in Depth Videos" (ACCV 2016 Workshop), based on the "NTU RGB+D" dataset. 
+We organized the action recognition challenge "Large Scale 3D Human Activity Analysis Challenge in Depth Videos" based on the "NTU RGB+D" dataset in ACCV 2016. 
 Details about this challenge can be found here [here](http://rose1.ntu.edu.sg/ActionRecognitionChallenge).
 
 ### Citation
