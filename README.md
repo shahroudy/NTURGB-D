@@ -171,18 +171,6 @@ Note that actions labelled from A1 to A60 are in "NTU RGB+D", while actions labe
 * A119.	support somebody with one’s hand (someone is sick, help him to walk). 
 * A120. finger-guessing game (playing rock-paper-scissors). 
 
-
-### Mailing List
-
-If you are interested to recieve news, updates, and future events about this dataset, please subscribe in the Google group of the dataset at: https://groups.google.com/d/forum/ntu-rgbd.
-If you cannot access the group's page, please email me, I will add your email to the list. 
-You can find my email in the [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf), and I'm the first author :)
-
-### 3D Human Activity Analysis Challenge
-
-We organized the action recognition challenge "Large Scale 3D Human Activity Analysis Challenge in Depth Videos" based on the "NTU RGB+D" dataset in ACCV 2016. 
-Details about this challenge can be found [here](http://rose1.ntu.edu.sg/ActionRecognitionChallenge).
-
 ### Citation
 
 To cite "NTU RGB+D" dataset, please use this bibtex record:
@@ -208,6 +196,17 @@ To cite "NTU RGB+D 120" dataset, please use this bibtex record:
   doi={10.1109/TPAMI.2019.2916873}
 }
 ```
+
+### Mailing List
+
+If you are interested to recieve news, updates, and future events about this dataset, please subscribe in the Google group of the dataset at: https://groups.google.com/d/forum/ntu-rgbd.
+If you cannot access the group's page, please email me, I will add your email to the list. 
+You can find my email in the [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf), and I'm the first author :)
+
+### 3D Human Activity Analysis Challenge
+
+We organized the action recognition challenge "Large Scale 3D Human Activity Analysis Challenge in Depth Videos" based on the "NTU RGB+D" dataset in ACCV 2016. 
+Details about this challenge can be found [here](http://rose1.ntu.edu.sg/ActionRecognitionChallenge).
 
 ### Reported results on "NTU RGB+D" benchmark and "NTU RGB+D 120" benchmark
 
