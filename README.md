@@ -12,7 +12,8 @@ It is introduced in our TPAMI 2019 paper [[PDF]](https://doi.org/10.1109/TPAMI.2
 ### How to access the datasets
 
 Please click [here](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp) for more information about obtaining the "NTU RGB+D" and "NTU RGB+D 120" datasets. 
-##### The "NTU RGB+D 120" is still under prepration, and it will be available for downloading soon.
+
+#### Note: The "NTU RGB+D 120" is still under prepration, and it will be available for downloading soon.
 
 ### Structures of the datasets
 
@@ -171,7 +172,7 @@ I have provided some MATLAB codes [here](https://github.com/shahroudy/NTURGB-D/t
 
 ### Mailing List
 
-If you are interested to recieve news, updates, and future events about this dataset please subscribe in the Google group of the dataset at: https://groups.google.com/d/forum/ntu-rgbd.
+If you are interested to recieve news, updates, and future events about this dataset, please subscribe in the Google group of the dataset at: https://groups.google.com/d/forum/ntu-rgbd.
 If you cannot access the group's page, please email me, I will add your email to the list. 
 You can find my email in the [paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf), I'm the first author :)
 
@@ -210,7 +211,7 @@ To cite "NTU RGB+D 120" dataset, please use this bibtex record:
 
 Coming soon :)
 
-### FAQ
+### FAQs
 
 **Why the individual and mutual actions are considered together? Isn't it better to separate them in our evaluations?**<br>
 *Having these classes of human actions together is a part of our dataset design to cope with more realistic scenarios of human action analysis. Therefore, the ideal evalution should not provide any prior info about the type of the action.*
