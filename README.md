@@ -42,7 +42,7 @@ and the list of these samples in "NTU RGB+D 120" dataset are provided [here](htt
 
 ### Sample codes
 
-We have provided some MATLAB codes [here](https://github.com/shahroudy/NTURGB-D/tree/master/Matlab) to demonstrate how to read the skeleton files, map them to other modalities (RGB, depth, and IR frames), and visualize the skeleton data. These codes are suitable for both "NTU RGB+D" and "NTU RGB+D 120".
+We have provided some MATLAB codes [here](https://github.com/shahroudy/NTURGB-D/tree/master/Matlab) to demonstrate how to read the skeleton files, map them to other modalities (RGB, depth, and IR frames), and visualize the skeleton data. The [codes](https://github.com/shahroudy/NTURGB-D/tree/master/Matlab) are suitable for both "NTU RGB+D" and "NTU RGB+D 120".
 
 ### Action Classes
 
