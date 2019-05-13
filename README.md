@@ -177,9 +177,8 @@ In our ["NTU RGB+D 120" dataset paper](https://doi.org/10.1109/TPAMI.2019.291687
 **Auxiliary set** contains 100 classes, and all samples of these classes can be used for learning.
 **Evaluation set** consists of 20 novel classes, and one sample from each novel class is picked as the exemplar, while all the remaining samples of these classes are used to test the recognition performance. 
 
-**Evaluation set.** 20 novel classes, namely, A1, A7, A13, A19, A25, A31, A37, A43, A49, A55, A61, A67, A73, A79, A85, A91, A97, A103, A109, A115. The following 20 samples are the exemplars: 
-
-(1)**S001**C003P008R001**A001**, (2)**S001**C003P008R001**A007**, (3)**S001**C003P008R001**A013**, (4)**S001**C003P008R001**A019**, (5)**S001**C003P008R001**A025**, (6)**S001**C003P008R001**A031**, (7)**S001**C003P008R001**A037**, (8)**S001**C003P008R001**A043**, (9)**S001**C003P008R001**A049**, (10)**S001**C003P008R001**A055**, 
+**Evaluation set.** 20 novel classes, namely, A1, A7, A13, A19, A25, A31, A37, A43, A49, A55, A61, A67, A73, A79, A85, A91, A97, A103, A109, A115. The following 20 samples are the exemplars:  
+(01)**S001**C003P008R001**A001**, (02)**S001**C003P008R001**A007**, (03)**S001**C003P008R001**A013**, (04)**S001**C003P008R001**A019**, (05)**S001**C003P008R001**A025**, (06)**S001**C003P008R001**A031**, (07)**S001**C003P008R001**A037**, (08)**S001**C003P008R001**A043**, (09)**S001**C003P008R001**A049**, (10)**S001**C003P008R001**A055**, 
 (11)**S018**C003P008R001**A061**, (12)**S018**C003P008R001**A067**, (13)**S018**C003P008R001**A073**, (14)**S018**C003P008R001**A079**, (15)**S018**C003P008R001**A085**, (16)**S018**C003P008R001**A091**, (17)**S018**C003P008R001**A097**, (18)**S018**C003P008R001**A103**, (19)**S018**C003P008R001**A109**, (20)**S018**C003P008R001**A115**, 
 
 **Auxiliary set.** 100 classes, i.e., the remaining 100 classes of "NTU RGB+D 120", excluding the 20 classes in evaluation set.
