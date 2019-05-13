@@ -171,6 +171,14 @@ Note that actions labelled from A1 to A60 are in "NTU RGB+D", while actions labe
 * A119.	support somebody with one’s hand (someone is sick, help him to walk). 
 * A120. finger-guessing game (playing rock-paper-scissors). 
 
+### Evaluation Protocol of One-Shot Action Recognition on "NTU RGB+D 120"
+
+In our ["NTU RGB+D 120" dataset paper](https://doi.org/10.1109/TPAMI.2019.2916873), we introduced one-shot action recognition setting, in which the "NTU RGB+D 120" dataset is split to two parts: the auxiliary set and the one-shot evaluation set. The auxiliary set contains multiple classes and samples, and these samples can be used for learning. The evaluation set consists of novel classes, and one sample from each novel class is picked as the exemplar, while the remaining samples are used to test the recognition performance. 
+
+Auxiliary set:
+
+Evaluation set:
+
 ### Citation
 
 To cite our datasets, please use the following bibtex records:
