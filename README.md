@@ -132,7 +132,7 @@ Note that actions labelled from A1 to A60 are in "NTU RGB+D", while actions labe
 * A80. squat down. 
 * A81. toss a coin. 
 * A82. fold paper. 
-* A83. ball up paper. . 
+* A83. ball up paper.
 * A84. play magic cube. 
 * A85. apply cream on face. 
 * A86. apply cream on hand back. 
