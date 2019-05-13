@@ -173,7 +173,7 @@ Note that actions labelled from A1 to A60 are in "NTU RGB+D", while actions labe
 
 ### Evaluation Protocol of One-Shot Action Recognition on "NTU RGB+D 120"
 
-In our ["NTU RGB+D 120" dataset paper](https://doi.org/10.1109/TPAMI.2019.2916873), we introduced the one-shot action recognition setting, in which the "NTU RGB+D 120" dataset is split to two parts: auxiliary set and one-shot evaluation set. 
+In the ["NTU RGB+D 120" dataset paper](https://doi.org/10.1109/TPAMI.2019.2916873), we introduced the one-shot action recognition setting, in which the "NTU RGB+D 120" dataset is split to two parts: auxiliary set and one-shot evaluation set. 
 **Auxiliary set** contains 100 classes, and all samples of these classes can be used for learning.
 **Evaluation set** consists of 20 novel classes, and one sample from each novel class is picked as the exemplar, while all the remaining samples of these classes are used to test the recognition performance. 
 
