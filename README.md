@@ -7,7 +7,7 @@
 It is introduced in our CVPR 2016 paper [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf). 
 
 "NTU RGB+D 120" is the extended version of the "NTU RGB+D" dataset.
-It is introduced in our TPAMI 2019 paper [[PDF]](https://www.researchgate.net/publication/332960808_NTU_RGBD_120_A_Large-Scale_Benchmark_for_3D_Human_Activity_Understanding).
+It is introduced in our TPAMI 2019 paper [[PDF?]](https://www.researchgate.net/publication/332960808_NTU_RGBD_120_A_Large-Scale_Benchmark_for_3D_Human_Activity_Understanding).
 
 ### How to download the datasets
 
