@@ -98,7 +98,7 @@ Note that actions labelled from A1 to A60 are in "NTU RGB+D", while actions labe
 * A46. touch back (backache). 
 * A47. touch neck (neckache). 
 * A48. nausea or vomiting condition. 
-* A49. use a fan (with hand or paper)/feeling warm. . 
+* A49. use a fan (with hand or paper)/feeling warm.
 * A50. punching/slapping other person. 
 * A51. kicking other person. 
 * A52. pushing other person. 
