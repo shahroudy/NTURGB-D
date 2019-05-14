@@ -7,7 +7,7 @@
 It is introduced in our CVPR 2016 paper [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf). 
 
 "NTU RGB+D 120" is the extended version of the "NTU RGB+D" dataset.
-It is introduced in our TPAMI 2019 paper [[PDF?]](https://www.researchgate.net/publication/332960808_NTU_RGBD_120_A_Large-Scale_Benchmark_for_3D_Human_Activity_Understanding).
+It is introduced in our TPAMI 2019 paper [[PDF]](https://128.84.21.199/pdf/1905.04757.pdf).
 
 ### How to download the datasets
 
@@ -173,7 +173,7 @@ Note that actions labelled from A1 to A60 are in "NTU RGB+D", while actions labe
 
 ### Evaluation Protocol of One-Shot Action Recognition on "NTU RGB+D 120"
 
-In the ["NTU RGB+D 120" dataset paper ?](https://doi.org/10.1109/TPAMI.2019.2916873), we introduced the one-shot action recognition setting, in which the "NTU RGB+D 120" dataset is split to two parts: auxiliary set and one-shot evaluation set. 
+In the ["NTU RGB+D 120" dataset paper](https://128.84.21.199/pdf/1905.04757.pdf), we introduced the one-shot action recognition setting, in which the "NTU RGB+D 120" dataset is split to two parts: auxiliary set and one-shot evaluation set. 
 **Auxiliary set** contains 100 classes, and all samples of these classes can be used for learning.
 **Evaluation set** consists of 20 novel classes, and one sample from each novel class is picked as the exemplar, while all the remaining samples of these classes are used to test the recognition performance. 
 
