@@ -13,8 +13,6 @@ It is introduced in our TPAMI 2019 paper [[PDF]](https://arxiv.org/pdf/1905.0475
 
 Please click [here](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp) for more information about accessing the "NTU RGB+D" and "NTU RGB+D 120" datasets. 
 
-#### Note: The "NTU RGB+D 120" dataset is still under prepration, and it will be available soon.
-
 ### Structures of the datasets
 
 "NTU RGB+D" and NTU RGB+D 120" datasets contain 56,880 and 114,480 action samples, repsectively. Both datasets include 4 different modalities of data for each sample:
