@@ -43,9 +43,7 @@ We have provided some MATLAB codes [here](https://github.com/shahroudy/NTURGB-D/
 
 ### Action Classes
 
-"NTU RGB+D" dataset contains 60 action classes, and "NTU RGB+D 120" dataset contains 120 action classes. The actions in these two datasets are listed as below. 
-
-Note that actions labelled from A1 to A60 are in "NTU RGB+D", while actions labelled from A1 to A120 are in "NTU RGB+D 120".
+"NTU RGB+D" dataset contains 60 action classes, and "NTU RGB+D 120" dataset contains 120 action classes. The actions in these two datasets are listed below. Note that actions labelled from A1 to A60 are in "NTU RGB+D", while actions labelled from A1 to A120 are in "NTU RGB+D 120".
 
 * A1. drink water. 
 * A2. eat meal/snack. 
@@ -71,7 +69,7 @@ Note that actions labelled from A1 to A60 are in "NTU RGB+D", while actions labe
 * A22. cheer up. 
 * A23. hand waving. 
 * A24. kicking something. 
-* A25. put something inside pocket / take out something from pocket. 
+* A25. reach into pocket. 
 * A26. hopping (one foot jumping). 
 * A27. jump up. 
 * A28. make a phone call/answer phone. 
