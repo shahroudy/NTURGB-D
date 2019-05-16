@@ -9,6 +9,8 @@ It is introduced in our CVPR 2016 paper [[PDF]](http://www.cv-foundation.org/ope
 "NTU RGB+D 120" is the extended version of the "NTU RGB+D" dataset.
 It is introduced in our TPAMI 2019 paper [[PDF]](https://arxiv.org/pdf/1905.04757.pdf).
 
+For any possible query regarding the datasets, please contact the first authors of the papers. 
+
 ### How to download the datasets
 
 Please click [here](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp) for more information about accessing the "NTU RGB+D" and "NTU RGB+D 120" datasets. 
