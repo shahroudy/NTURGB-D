@@ -9,7 +9,7 @@ It is introduced in our CVPR 2016 paper [[PDF]](http://www.cv-foundation.org/ope
 "NTU RGB+D 120" is the extended version of the "NTU RGB+D" dataset.
 It is introduced in our TPAMI 2019 paper [[PDF]](https://arxiv.org/pdf/1905.04757.pdf).
 
-For any possible query regarding the datasets, please contact the first authors of the papers. 
+For any possible query regarding the datasets, please contact the first author of the paper. 
 
 ### How to download the datasets
 
