@@ -165,7 +165,7 @@ We have provided some MATLAB codes [here](https://github.com/shahroudy/NTURGB-D/
 * A116.	follow other person. 
 * A117.	whisper in other person’s ear. 
 * A118.	exchange things with other person. 
-* A119.	support somebody with one’s hand (someone is sick, help him to walk). 
+* A119.	support somebody with hand. 
 * A120. finger-guessing game (playing rock-paper-scissors). 
 
 ### Evaluation Protocol of One-Shot Action Recognition on "NTU RGB+D 120"
