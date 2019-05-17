@@ -170,7 +170,7 @@ We have provided some MATLAB codes [here](https://github.com/shahroudy/NTURGB-D/
 
 ### Evaluation Protocol of One-Shot Action Recognition on "NTU RGB+D 120"
 
-In the ["NTU RGB+D 120" dataset paper](https://arxiv.org/pdf/1905.04757.pdf), we introduced the one-shot action recognition setting, in which the "NTU RGB+D 120" dataset is split to two parts: auxiliary set and one-shot evaluation set. 
+In ["NTU RGB+D 120" dataset paper](https://arxiv.org/pdf/1905.04757.pdf), we introduced the one-shot recognition setting, in which "NTU RGB+D 120" dataset is split to two parts: auxiliary set and one-shot evaluation set. 
 **Auxiliary set** contains 100 classes, and all samples of these classes can be used for learning.
 **Evaluation set** consists of 20 novel classes, and one sample from each novel class is picked as the exemplar, while all the remaining samples of these classes are used to test the recognition performance. 
 
