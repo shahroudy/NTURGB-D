@@ -242,6 +242,3 @@ Actually the network is supposed to learn how to normalize the data by itself.*
 **(5) The provided MATLAB code cannot read .avi files on my Linux machine.**<br>
 *Most probably it's a missing codec problem.
 I used [this solution](http://askubuntu.com/questions/575869/how-do-i-install-gstreamer0-10-ffmpeg-on-ubuntu-14-10/707612#707612), and it worked on my own machine. Hope it would help you also.*
-
-**(6) Why haven't I received my login account after registration?**<br>
-*The registration information will be verified by the technicians of ROSE Lab. It may take one working day for the verification.*
