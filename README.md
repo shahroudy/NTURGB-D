@@ -34,7 +34,7 @@ For more details about the setups, camera IDs, ..., please refer to the ["NTU RG
 
 ### Samples with missing skeletons
 
-302 samples in "NTU RGB+D" dataset and 532 samples in "NTU RGB+D 120" dataset have missing or incomplete skeleton data.
+302 samples in "NTU RGB+D" dataset and 535 samples in "NTU RGB+D 120" dataset have missing or incomplete skeleton data.
 If you are working on skeleton-based analysis, please ignore these files in your training and testing procedures.  
 The list of these samples in "NTU RGB+D" dataset are provided [here](https://github.com/shahroudy/NTURGB-D/blob/master/Matlab/NTU_RGBD_samples_with_missing_skeletons.txt).  
 The list of these samples in "NTU RGB+D 120" dataset are provided [here](https://github.com/shahroudy/NTURGB-D/blob/master/Matlab/NTU_RGBD120_samples_with_missing_skeletons.txt).
