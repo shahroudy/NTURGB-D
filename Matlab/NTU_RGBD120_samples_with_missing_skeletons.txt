@@ -1,4 +1,4 @@
-532 of the captured samples in the "NTU RGB+D 120" dataset have missing or incomplete skeleton data.
+535 of the captured samples in the "NTU RGB+D 120" dataset have missing or incomplete skeleton data.
 If you are working on skeleton-based analysis, please ignore these files in your training and testing procedures.
 
 S001C002P005R002A008
