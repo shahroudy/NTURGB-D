@@ -14,7 +14,9 @@ For any possible query regarding the datasets, please contact the first author o
 Please click [here](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp) for more information about accessing the "NTU RGB+D" and "NTU RGB+D 120" datasets. 
 
 If you need the skeleton data only, you could also obtain it via:
+
 https://drive.google.com/open?id=1CUZnBtYwifVXS21yVg62T-vrPVayso5H
+
 https://drive.google.com/open?id=1tEbuaEqMxAV7dNc4fqu1O4M7mC6CJ50w
 
 ### Structures of the datasets
