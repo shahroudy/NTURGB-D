@@ -189,20 +189,22 @@ In ["NTU RGB+D 120" dataset paper](https://arxiv.org/pdf/1905.04757.pdf), we int
 To cite our datasets, please use the following bibtex records:
 
 ```
-@inproceedings{Shahroudy_2016_NTURGBD,
-  author = {Shahroudy, Amir and Liu, Jun and Ng, Tian-Tsong and Wang, Gang},
-  title = {NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis},
-  booktitle = {IEEE Conference on Computer Vision and Pattern Recognition},
-  month = {June},
-  year = {2016}
+@inproceedings{shahroudy2016ntu,
+  title={NTU RGB+D: A large scale dataset for 3D human activity analysis},
+  author={Shahroudy, Amir and Liu, Jun and Ng, Tian-Tsong and Wang, Gang},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={1010--1019},
+  year={2016}
 }
 
-@article{Liu_2019_NTURGBD120,
-  title={NTU RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding},
-  author={Liu, Jun and Shahroudy, Amir and Perez, Mauricio and Wang, Gang and Duan, Ling-Yu and Kot, Alex C.},
+@article{liu2019ntu,
+  title={NTU RGB+D 120: A large-scale benchmark for 3D human activity understanding},
+  author={Liu, Jun and Shahroudy, Amir and Perez, Mauricio and Wang, Gang and Duan, Ling-Yu and Kot, Alex C},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2019},
-  doi={10.1109/TPAMI.2019.2916873}
+  volume={42},
+  number={10},
+  pages={2684--2701},
+  year={2019}
 }
 ```
 
