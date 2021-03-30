@@ -197,14 +197,14 @@ To cite our datasets, please use the following bibtex records:
   year={2016}
 }
 
-@article{liu2019ntu,
+@article{liu2020ntu,
   title={NTU RGB+D 120: A large-scale benchmark for 3D human activity understanding},
   author={Liu, Jun and Shahroudy, Amir and Perez, Mauricio and Wang, Gang and Duan, Ling-Yu and Kot, Alex C},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   volume={42},
   number={10},
   pages={2684--2701},
-  year={2019}
+  year={2020}
 }
 ```
 
