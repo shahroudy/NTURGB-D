@@ -21,7 +21,7 @@ https://drive.google.com/open?id=1tEbuaEqMxAV7dNc4fqu1O4M7mC6CJ50w
 
 ### Structures of the datasets
 
-"NTU RGB+D" and NTU RGB+D 120" datasets contain 56,880 and 114,480 action samples, repsectively. Both datasets include 4 different modalities of data for each sample:
+"NTU RGB+D" and NTU RGB+D 120" datasets contain 56,880 and 114,480 action samples, respectively. Both datasets include 4 different modalities of data for each sample:
 * RGB videos
 * depth map sequences
 * 3D skeletal data
