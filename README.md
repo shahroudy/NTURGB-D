@@ -11,7 +11,7 @@ For any possible query regarding the datasets, please contact the first author o
 
 ### How to download the datasets
 
-Please click [here](http://rose1.ntu.edu.sg/Datasets/actionRecognition.asp) for more information about accessing the "NTU RGB+D" and "NTU RGB+D 120" datasets. 
+The "NTU RGB+D" and "NTU RGB+D 120" datasets can be downlowed via [http://rose1.ntu.edu.sg/Dataset/actionRecognition.asp](http://rose1.ntu.edu.sg/Dataset/actionRecognition.asp). 
 
 If you need the skeleton data only, you could also obtain it via:
 
