@@ -11,7 +11,7 @@ For any possible query regarding the datasets, please contact the first author o
 
 ### How to download the datasets
 
-The full datasets can be downlowed via: 
+The full datasets can be downloaded via: 
 
 [https://rose1.ntu.edu.sg/dataset/actionRecognition/](https://rose1.ntu.edu.sg/dataset/actionRecognition/). 
 
