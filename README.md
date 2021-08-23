@@ -13,7 +13,7 @@ For any possible query regarding the datasets, please contact the first author o
 
 The full datasets can be downlowed via: 
 
-[http://rose1.ntu.edu.sg/Dataset/actionRecognition.asp](http://rose1.ntu.edu.sg/Dataset/actionRecognition.asp). 
+[https://rose1.ntu.edu.sg/dataset/actionRecognition/](https://rose1.ntu.edu.sg/dataset/actionRecognition/). 
 
 If you need the skeleton data only, you could also obtain it via:
 
