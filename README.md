@@ -219,7 +219,7 @@ You can find my email in the [paper](http://www.cv-foundation.org/openaccess/con
 ### 3D Human Activity Analysis Challenge
 
 We organized the action recognition challenge "Large Scale 3D Human Activity Analysis Challenge in Depth Videos" based on the "NTU RGB+D" dataset in ACCV 2016. 
-Details about this challenge can be found [here](http://rose1.ntu.edu.sg/ActionRecognitionChallenge).
+Details about this challenge can be found [here](https://rose1.ntu.edu.sg/challenge/ActionRecognitionChallenge/).
 
 ### Reported results on "NTU RGB+D" benchmark and "NTU RGB+D 120" benchmark
 
